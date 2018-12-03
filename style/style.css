@@ -45,7 +45,9 @@ header nav a {
   font-size: 24px;
   margin: 0 20px;
 }
-
+header img {
+  width: 40px;
+}
 /*========================================
 *
 *     Hero Image Section
